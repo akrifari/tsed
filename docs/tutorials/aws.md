@@ -71,6 +71,6 @@ You can find a project example with [AWS configuration here](https://github.com/
 You can see an example provided by the AWS Team on this [github repository](https://github.com/awslabs/aws-serverless-express/tree/master/examples/basic-starter).
 :::
 
-::: tip Credits
-Thanks to [vetras](https://github.com/vetras) for his contribution.
-:::
+## Author 
+
+<GithubContributors users="['vetras']"/>
